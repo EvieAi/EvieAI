@@ -1,7 +1,8 @@
 # Evie
 Evie verifies GitHub repositories for legitimacy and code quality, and monitors X accounts for tweet deletions and name changes.
 
-![Eviebanner](https://cdn.discordapp.com/attachments/550607897189548052/1330608683654320158/Evie_1.png?ex=678e9967&is=678d47e7&hm=1f4c8602f983152eb93627624e894bf72fa12328b144db24cb583ffde330a7dd&)
+![image](https://github.com/user-attachments/assets/4a0f150f-2d83-407e-a642-ab4fd29844b4)
+
 
 # Evie - GitHub & X Account Verification Agent
 
