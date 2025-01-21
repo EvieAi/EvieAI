@@ -6,6 +6,7 @@ Evie verifies GitHub repositories for legitimacy and code quality, and monitors 
 
 
 
+
 # Evie - GitHub & X Account Verification Agent
 
 Welcome to **Evie**, an AI-powered agent designed to enhance the trustworthiness and quality assurance of open-source projects on GitHub and monitor changes in X accounts.
