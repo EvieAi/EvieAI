@@ -1,8 +1,7 @@
 # Evie
 Evie verifies GitHub repositories for legitimacy and code quality, and monitors X accounts for tweet deletions and name changes.
 
-![Uploading image.png…]()
-
+https://pbs.twimg.com/profile_banners/1881445216151896064/1737494769/1500x500
 
 
 
