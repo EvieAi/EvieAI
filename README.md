@@ -2,7 +2,7 @@
 Evie verifies GitHub repositories for legitimacy and code quality, and monitors X accounts for tweet deletions and name changes.
 
 
-![Evie](https://cdn.discordapp.com/attachments/550607897189548052/1331379991786819718/Untitled_design_1.png?ex=679167bd&is=6790163d&hm=6c188e6accfac54d8315a3807eab9ca24128d80ca9c69d050e33c8977288a721&)
+![Evie](https://cdn.discordapp.com/attachments/550607897189548052/1331375191770533959/Untitled_design.png?ex=67920c05&is=6790ba85&hm=f607bd423427036a711856c129b3244c21b278bfe6b17f513def2da50358fb6f&)
 
 
 
